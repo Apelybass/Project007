@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'NomsodDemo';
+  src:url(NomsodDemo.ttf)  format('truetype');
+  
+}
+
+
+body{
+    font-family: 'NomsodDemo'; 
+}
+
+body{
+
+font-size: px;
+}
+
+h1{
+    background-color: rgb(160, 245, 184);
+    border-radius: 15px;
+    width: 250px;
+}
+h2{
+    background-color: rgb(162, 244, 199);
+    border-radius: 15px;
+    width: 300px;
+}
+p{
+background-color: rgb(101, 226, 203);
+width: 300px;
+border-radius: 15px;
+}
+img{
+    background-color: black;
+    border-radius: 20px;
+    width: 250px;
+    height: 350px;
+}
